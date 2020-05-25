@@ -1,10 +1,3 @@
-/** \file main.cpp ******************************************************
-*
-* Project: STM32F103C8T6+MAX30102
-* Edited by Anning
-* Shop website: https://shop108071095.taobao.com
-* Email: anning865@126.com
-* ------------------------------------------------------------------------- */
 /*******************************************************************************
 * Copyright (C) 2016 Maxim Integrated Products, Inc., All Rights Reserved.
 *
